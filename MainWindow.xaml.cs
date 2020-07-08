@@ -23,7 +23,6 @@ namespace Diplom
         public MainWindow()
         {
             InitializeComponent();
-            sadsad
         }
     }
 }
